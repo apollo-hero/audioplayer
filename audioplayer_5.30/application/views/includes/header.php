@@ -168,8 +168,8 @@
                             </li>
                         </ul>
                     </li>
-                    <!-- <li  <?php if($this->uri->segment(2)=="send_notifications"){echo 'class="active"';} ?>>
-						<a href="<?php echo base_url(); ?>admin/send_notifications">Send Notification</a>
+                    <!-- <li  <?php //if($this->uri->segment(2)=="send_notifications"){echo 'class="active"';} ?>>
+						<a href="<?php //echo base_url(); ?>admin/send_notifications">Send Notification</a>
 					</li> -->
 
 					<li>
